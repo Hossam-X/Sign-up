@@ -1,0 +1,73 @@
+body{
+    background-color: #BFCEE1;
+    font-family: 'Roboto' , sans-serif;
+}
+.signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: #94aac7  ;
+    border-radius: 50px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align:center ;
+
+}
+form{
+    width: 300px%;
+    margin-left: 20px;
+    margin-right: 20px;    
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+form input{
+    width: 100%;
+    padding: 5px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+.kot{
+    font-size: small;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #4c7cba;
+    color: white;
+    font-size: 18px;
+
+}
+input[type="checkbox"]{
+width: 10px;
+font-size: 10px ;
+margin-left: 20px;
+margin-top: 30px;
+
+}
+p{ 
+    text-align: center;
+padding-top: 20px;
+font-size: 15px;
+}
+.kk{
+text-align: center;
+color: black;
+font-size: 15px;
+margin-top: -10;
+
+}
+.kk a{
+    color: rebeccapurple;
+}
